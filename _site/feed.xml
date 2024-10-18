@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-10-18T15:22:23+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">El sitio de Iban</title><subtitle>Este es la web de Iban Vilata Gimeno</subtitle><entry><title type="html">Bienvenido a mi página de Jekyll</title><link href="http://localhost:4000/jekyll/update/2024/10/18/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Bienvenido a mi página de Jekyll" /><published>2024-10-18T15:03:56+02:00</published><updated>2024-10-18T15:03:56+02:00</updated><id>http://localhost:4000/jekyll/update/2024/10/18/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2024/10/18/welcome-to-jekyll.html"><![CDATA[<p>Mi nombre es <strong>Iban Vilata Gimeno</strong> y este sitio está diseñado como parte de un ejercicio.</p>
+
+<p>Puedes encontrar este post en el directorio <code class="language-plaintext highlighter-rouge">_posts</code>. Puedes editarlo y volver a generar el sitio para ver tus cambios reflejados.</p>
+
+<p>Jekyll requiere que los archivos de blog se nombren siguiendo este formato:</p>
+
+<p><code class="language-plaintext highlighter-rouge">YEAR-MONTH-DAY-titulo.MARKUP</code></p>
+
+<p>Donde <code class="language-plaintext highlighter-rouge">YEAR</code> es un número de cuatro dígitos, <code class="language-plaintext highlighter-rouge">MONTH</code> y <code class="language-plaintext highlighter-rouge">DAY</code> son números de dos dígitos, y <code class="language-plaintext highlighter-rouge">MARKUP</code> es el tipo de archivo.</p>
+
+<p>Jekyll también ofrece un soporte potente para fragmentos de código:</p>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">saludar</span><span class="p">(</span><span class="n">nombre</span><span class="p">)</span>
+  <span class="nb">puts</span> <span class="s2">"Hola, </span><span class="si">#{</span><span class="n">nombre</span><span class="si">}</span><span class="s2">"</span>
+<span class="k">end</span>
+<span class="n">saludar</span><span class="p">(</span><span class="s1">'Iban'</span><span class="p">)</span>
+<span class="c1">#=&gt; imprime 'Hola, Iban' en la consola.</span></code></pre></figure>
+
+<p>Para más información sobre cómo aprovechar Jekyll al máximo, consulta la <a href="https://jekyllrb.com/docs/home">documentación de Jekyll</a>.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Mi nombre es Iban Vilata Gimeno y este sitio está diseñado como parte de un ejercicio.]]></summary></entry></feed>
